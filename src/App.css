@@ -1,9 +1,13 @@
 .App {
+  background-image: url(https://cdn.entertainment-focus.com/wp-content/uploads/2022/03/25100033/malumafeat.jpg);
   text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 50vmin;
   pointer-events: none;
 }
 
@@ -36,3 +40,5 @@
     transform: rotate(360deg);
   }
 }
+
+
